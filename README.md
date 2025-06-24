@@ -2,7 +2,7 @@
 
 这是一个使用 **Next.js 15** 和 **React 18** 构建的校园用电监控前端项目，主要展示各建筑的用电概况、日统计以及半小时趋势图表。界面风格现代，支持深色/浅色模式切换，目前所有数据均通过 `lib/api.ts` 里的接口函数获取，可根据需要替换为真实后端地址。
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Power+Dashboard)
+![image-20250624143619393](./assets/image-20250624143619393.png)
 
 ## 功能特色
 
